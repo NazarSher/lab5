@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Roten";
+
+	src: url('../fonts/Roten.ttf');
+}
+
+
+h1{
+    font-family: "Roten";
+    font-size: 100px;
+}
+i{
+    font-size: 200px;
+}
